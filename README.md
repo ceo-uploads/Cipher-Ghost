@@ -230,7 +230,7 @@ Open **PowerShell** as a regular user and execute the following commands:
 
 ```powershell
 # 1. Clone the repository or navigate to your project directory
-git clone [https://github.com/ceo-uploads/Cipher-Ghost.git] (https://github.com/ceo-uploads/Cipher-Ghost.git)
+git clone [https://github.com/ceo-uploads/Cipher-Ghost.git]
 cd cipherghost
 
 # 2. Create an isolated Python virtual environment
